@@ -1,0 +1,33 @@
+/* Estils bàsics per a la pàgina */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encapçalament */
+header {
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+/* Enllaços */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Peu de pàgina */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
